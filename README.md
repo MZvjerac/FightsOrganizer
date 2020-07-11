@@ -18,6 +18,7 @@ NOTES: - Spoken language implemented into app=Serbian
 WEB-app for trading sport and MMA equipment and organizing fights 
 between registered users who have completed a fight request, according to theirs
 weight-category, wanted fight discipline and place of living (automatically) .
+![1  page](https://user-images.githubusercontent.com/68098543/87227598-71d01c00-c39c-11ea-87ba-bf9f3b9a30b1.JPG)
 
 This application is developed for:
 1. Unregistered user
