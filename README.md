@@ -28,7 +28,7 @@ This application is developed for:
 
 USE-CASES FOR USER/S:
 - Registration ![Registration page](https://user-images.githubusercontent.com/68098543/87227546-1140df00-c39c-11ea-8225-1cb75b09229d.JPG)
-- Login
+- Login ![Login page](https://user-images.githubusercontent.com/68098543/87227663-e1460b80-c39c-11ea-9de4-9d37e9c15392.JPG)
 - Figt-request form filling out
 - Sport's equipement choosing and adding into cart
 - Ordering sport equipment and paying for it
