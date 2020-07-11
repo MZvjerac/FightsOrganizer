@@ -26,7 +26,7 @@ This application is developed for:
 4. "Trading" administrator
 
 USE-CASES FOR USER/S:
-- Registration
+- Registration ![Registration page](https://user-images.githubusercontent.com/68098543/87227546-1140df00-c39c-11ea-8225-1cb75b09229d.JPG)
 - Login
 - Figt-request form filling out
 - Sport's equipement choosing and adding into cart
