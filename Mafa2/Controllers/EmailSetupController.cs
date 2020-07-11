@@ -32,7 +32,7 @@ namespace Mafa2.Web.Controllers
             smtp.Port = 587;
             smtp.EnableSsl = true;
 
-            NetworkCredential nc = new NetworkCredential("mz.tool2882@gmail", "toolove2882");
+            NetworkCredential nc = new NetworkCredential("mz.tool2882@gmail", "put your email account password here");
             smtp.UseDefaultCredentials = true;
             smtp.Credentials = nc;
             smtp.Send(mm);
